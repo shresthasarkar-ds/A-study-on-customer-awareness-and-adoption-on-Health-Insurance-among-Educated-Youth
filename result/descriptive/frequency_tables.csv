@@ -1,0 +1,39 @@
+variable,category,count,percent
+Age group,18ï¿½ï¿,38,58.46
+Age group,23ï¿½ï¿,24,36.92
+Age group,28ï¿½ï¿,2,3.08
+Age group,Above 32,1,1.54
+Gender,Male,51,78.46
+Gender,Female,14,21.54
+Education,Postgraduate,47,72.31
+Education,Undergraduate,18,27.69
+Employment status,Student,33,50.77
+Employment status,Employed (Private Sector),22,33.85
+Employment status,Self-Employed,8,12.31
+Employment status,Employed (Government Sector),2,3.08
+Monthly income,No Income (0),21,32.31
+Monthly income,"Below ï¿½ï¿½ï¿½",21,32.31
+Monthly income,"ýýý20,000 ýýý ýýý50,000",16,24.62
+Monthly income,"ýýý50,000 ýýý ýýý1,00,000",4,6.15
+Monthly income,"Above ï¿½ï¿½ï¿½1,",3,4.62
+Awareness level,Not aware,5,7.69
+Awareness level,Somewhat aware,29,44.62
+Awareness level,Fully aware,31,47.69
+Insurance ownership,"Yes, self-purchased",30,46.15
+Insurance ownership,No,26,40
+Insurance ownership,"Yes, provided by employer/university",9,13.85
+Perceived importance,Very important,47,72.31
+Perceived importance,Somewhat important,15,23.08
+Perceived importance,Not important,3,4.62
+Future purchase interest,Yes,44,67.69
+Future purchase interest,No,13,20
+Future purchase interest,Not Sure,8,12.31
+Satisfaction,Neutral,27,41.54
+Satisfaction,Satisfied,22,33.85
+Satisfaction,Dissatisfied,7,10.77
+Satisfaction,Very Dissatisfied,5,7.69
+Satisfaction,Very Satisfied,4,6.15
+Plan type,Employer-Provided Plan,9,13.85
+Plan type,Family Floater Plan,24,36.92
+Plan type,Government Scheme,9,13.85
+Plan type,Individual Health Plan,23,35.38
