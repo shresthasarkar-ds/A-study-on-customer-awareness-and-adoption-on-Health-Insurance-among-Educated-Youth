@@ -3,7 +3,7 @@
 A survey-based study of how aware educated young adults in India are of health insurance, whether they actually hold a policy, and what stops or encourages them. The project covers the full workflow: questionnaire data, descriptive analysis, hypothesis tests (chi-square, Spearman correlation), a logistic regression model, charts and a written research paper.
 
 <p align="center">
-  <img src="charts/adoption/08_insurance_adoption_status.png" width="60%" alt="Health insurance adoption status">
+  <img width="1128" height="688" alt="08_insurance_adoption_status" src="https://github.com/user-attachments/assets/e5794c3a-b934-4b90-8653-65f438f5650e" />
 </p>
 
 ## Contents
@@ -61,8 +61,8 @@ Column definitions, answer options and known data issues are in [`data/data_dict
 ### Who responded
 
 <p>
-  <img src="charts/demographics/01_age_distribution.png" width="48%" alt="Age distribution">
-  <img src="charts/demographics/03_education_distribution.png" width="48%" alt="Education distribution">
+ <img width="1128" height="757" alt="01_age_distribution" src="https://github.com/user-attachments/assets/bd0db200-286d-42de-abcd-9f93be913b3c" />
+<img width="1128" height="775" alt="03_education_distribution" src="https://github.com/user-attachments/assets/522fe142-9b25-4e74-96e1-139a87435009" />
 </p>
 
 ### Awareness
@@ -70,15 +70,15 @@ Column definitions, answer options and known data issues are in [`data/data_dict
 Most respondents are at least somewhat aware of health insurance, and social media and family are the main sources of information.
 
 <p>
-  <img src="charts/awareness/05_awareness_level.png" width="48%" alt="Awareness level">
-  <img src="charts/awareness/07_sources_of_awareness.png" width="48%" alt="Sources of awareness">
+ <img width="1128" height="688" alt="05_awareness_level" src="https://github.com/user-attachments/assets/acdcc957-bc56-446d-a748-d778c49af0d9" />
+ <img width="1459" height="848" alt="07_sources_of_awareness" src="https://github.com/user-attachments/assets/8684df77-1ed0-479c-ae7a-9fccbe215e1e" />
 </p>
 
 ### Adoption: barriers and motivators
 
 <p>
-  <img src="charts/adoption/10_non_adoption_factors.png" width="48%" alt="Reasons for not buying">
-  <img src="charts/adoption/11_adoption_motivators.png" width="48%" alt="Factors encouraging purchase">
+ <img width="989" height="569" alt="10_non_adoption_factors" src="https://github.com/user-attachments/assets/cd7f9f70-41e7-4bf3-b4eb-129a9895f150" />
+<img width="989" height="569" alt="11_adoption_motivators" src="https://github.com/user-attachments/assets/7b9df395-7b2e-4a6b-8019-10890a4dcce2" />
 </p>
 
 ### Hypothesis tests
