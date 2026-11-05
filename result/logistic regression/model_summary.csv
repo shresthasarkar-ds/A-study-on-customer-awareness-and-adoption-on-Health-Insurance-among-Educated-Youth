@@ -1,0 +1,15 @@
+measure,value,source
+Dependent variable,"Current insurance ownership (1 = insured, 0 = not insured)",Workbook
+Predictors,"Awareness, income category, perceived importance, student status",Workbook
+Observations,65,Workbook
+Estimation,"Maximum likelihood (Excel Solver, GRG Nonlinear); re-estimated independently in Python with identical results",Workbook + verification
+Log-likelihood (full model),-36.8813,Workbook
+Log-likelihood (null model),-43.7458,Workbook
+LR statistic,13.729,Workbook
+LR degrees of freedom,4,Workbook
+LR test p-value,0.0082,Workbook
+McFadden pseudo R-squared,0.1569,Workbook
+Classification accuracy (0.5 cut-off),0.692,Supplementary (not in paper)
+Sensitivity,0.769,Supplementary (not in paper)
+Specificity,0.577,Supplementary (not in paper)
+AUC,0.763,Supplementary (not in paper)

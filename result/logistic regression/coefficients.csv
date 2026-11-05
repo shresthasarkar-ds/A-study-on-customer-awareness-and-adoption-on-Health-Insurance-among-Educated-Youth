@@ -1,0 +1,6 @@
+predictor,coefficient,std_error,z_statistic,p_value,odds_ratio,coef_ci95_lower,coef_ci95_upper,odds_ratio_ci95_lower,odds_ratio_ci95_upper,significant_at_5pct
+Intercept,-1.452,1.3641,-1.064,0.2871,0.234,-4.126,1.222,0.016,3.393,No
+Awareness (0-2),0.5591,0.4721,1.184,0.2363,1.749,-0.366,1.484,0.693,4.413,No
+Income category (0-4),0.4431,0.3293,1.346,0.1784,1.558,-0.202,1.089,0.817,2.97,No
+Perceived importance (0-2),1.0772,0.6297,1.711,0.0871,2.936,-0.157,2.311,0.855,10.088,No
+Student (1=student),-1.1921,0.6589,-1.809,0.0704,0.304,-2.484,0.099,0.083,1.104,No
