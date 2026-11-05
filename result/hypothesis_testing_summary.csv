@@ -1,0 +1,7 @@
+hypothesis,test,statistic,p_value,decision_at_5pct,conclusion
+Awareness level vs current insurance ownership,Chi-square test of independence,chi2(2) = 3.2147,0.20042,Do not reject H0,No significant association
+Income group vs current insurance ownership,Chi-square test of independence,chi2(1) = 7.5811,0.0059,Reject H0,Significant association
+Employment group vs current insurance ownership,Chi-square test of independence,chi2(1) = 8.6277,0.00331,Reject H0,Significant association
+Awareness vs future purchase intention,Spearman rank correlation,rs = 0.3017,0.01459,Reject H0,"Modest positive, significant"
+Income category vs current ownership,Spearman rank correlation,rs = 0.30405,0.0138,Reject H0,"Modest positive, significant"
+Overall logistic regression model,Likelihood-ratio test,"LR = 13.729, df = 4",0.0082,Reject H0,Model better than intercept-only; modest fit (pseudo R2 0.157)
