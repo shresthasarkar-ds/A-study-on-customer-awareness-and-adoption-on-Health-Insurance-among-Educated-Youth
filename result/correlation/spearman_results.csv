@@ -1,0 +1,4 @@
+analysis,spearman_rs,p_value,n,coding,interpretation_note
+Awareness vs future purchase intention (recommended coding),0.3017,0.01459,65,"Awareness: Not aware=0, Somewhat=1, Fully=2 | Intention: No=0, Not Sure=1, Yes=2",Positive: higher awareness goes with higher purchase intention. Matches the coding stated in the paper.
+Awareness vs future purchase intention (as in Excel workbook),-0.31744,0.00998,65,"Awareness: 0/1/2 | Intention: Yes=0, No=1, Not Sure=2","Reverse coding: negative rs here means higher awareness goes with MORE ""Yes"" answers. Do not read as ""higher awareness, lower intention""."
+Income category vs current insurance ownership,0.30405,0.0138,65,"Income: 0-4 (no income to above Rs 1,00,000) | Ownership: uninsured=0, insured=1",Modest positive association.
