@@ -1,0 +1,4 @@
+test,null_hypothesis,chi_square,df,p_value,alpha,decision,cramers_v,yates_corrected_chi_square,yates_corrected_p,min_expected_count,cells_expected_below_5
+Awareness level vs current insurance ownership,H0: awareness and ownership are independent,3.2147,2,0.20042,0.05,Do not reject H0,0.222,,,2.0,2
+Income group vs current insurance ownership,H0: income group and ownership are independent,7.5811,1,0.0059,0.05,Reject H0,0.342,6.1933,0.01282,9.2,0
+Employment group vs current insurance ownership,H0: employment group and ownership are independent,8.6277,1,0.00331,0.05,Reject H0,0.364,7.2043,0.00727,12.8,0
