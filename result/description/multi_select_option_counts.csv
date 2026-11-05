@@ -1,0 +1,21 @@
+question,option,respondents,source,percent_of_65
+Challenges in getting insurance,High premium costs,27,survey CSV,41.54
+Challenges in getting insurance,Difficult claim settlement process,27,survey CSV,41.54
+Challenges in getting insurance,Limited awareness and understanding,22,survey CSV,33.85
+Challenges in getting insurance,Lack of transparency in policies,14,survey CSV,21.54
+Challenges in getting insurance,Not enough benefits for the cost,9,survey CSV,13.85
+Reasons for not buying,I don't feel the need for it,24,Excel pivot (CSV text corrupted),36.92
+Reasons for not buying,Lack of awareness,21,Excel pivot (CSV text corrupted),32.31
+Reasons for not buying,Too expensive,16,Excel pivot (CSV text corrupted),24.62
+Reasons for not buying,Policies are too complex,14,Excel pivot (CSV text corrupted),21.54
+Reasons for not buying,Rely on family's insurance,14,Excel pivot (CSV text corrupted),21.54
+Sources of awareness,Social Media & Internet,33,survey CSV,50.77
+Sources of awareness,Family & Friends,32,survey CSV,49.23
+Sources of awareness,Employer/College/University,24,survey CSV,36.92
+Sources of awareness,Insurance Agents,19,survey CSV,29.23
+Sources of awareness,"Advertisements (TV, Print, Online)",17,survey CSV,26.15
+What would encourage purchase,Digitalized and simple policy selection,35,survey CSV,53.85
+What would encourage purchase,Easy claim settlement process,34,survey CSV,52.31
+What would encourage purchase,More awareness and education programs,32,survey CSV,49.23
+What would encourage purchase,Lower premium rates,30,survey CSV,46.15
+What would encourage purchase,Government incentives/subsidies,22,survey CSV,33.85
